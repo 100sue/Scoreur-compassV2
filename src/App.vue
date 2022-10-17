@@ -19,8 +19,9 @@ import Sidebar from './components/Sidebar.vue'
 <style lang="scss">
 :root {
   --primary: #4ade80;
-  --dark: #64748b;
-  --dark-alt: #1e293b;
+  --dark: #1e293b;
+  --grey: #64748b;
+  --dark-alt: #334155;
   --light: #f1f5f9;
   --sidebar-width: 300px;
 }
